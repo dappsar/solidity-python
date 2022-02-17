@@ -1,0 +1,11 @@
+node_modules/
+installed_contracts/
+build/
+package-lock.json
+yarn.lock
+.eslint*
+.prettierrc
+npm-debug.log
+.env*
+_temp/
+compiled/
