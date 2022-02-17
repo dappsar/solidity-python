@@ -1,0 +1,7 @@
+PROVIDER= ALCHEMY or INFURA
+MNENOMIC = // Your metamask's recovery words
+ALCHEMY_KEY= // Your Alchemy API Key after its registration
+INFURA_KEY = // Your Infura API Key after its registration
+PROJECT_ID = // infura project id
+INFURA_URL="https://NETWORK.infura.io/v3/" // keep NETWORK word as it is
+ALCHEMY_URL="https://eth-NETWORK.alchemyapi.io/v2/" // keep NETWORK word as it is
